@@ -24,4 +24,4 @@ And still occasionally working on:
    - <a href="https://github.com/NHGRI/saltstack">SSA Team's Saltstack Repository</a>  
 </pre>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b279ef7c-fb0f-4023-9a90-8f9175798c3f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<https://www.credly.com/badges/b279ef7c-fb0f-4023-9a90-8f9175798c3f/public_url>
