@@ -24,6 +24,6 @@ And still occasionally working on:
    - <a href="https://github.com/NHGRI/saltstack">SSA Team's Saltstack Repository</a>  
 </pre>
 
-![credly badge](https://github.com/matthewsht/matthewsht/blob/main/images/hashicorp-certified-terraform-associate-003.png "https://www.credly.com/badges/b279ef7c-fb0f-4023-9a90-8f9175798c3f/public_url")
+![credly badge](/images/hashicorp-certified-terraform-associate-003.png "https://www.credly.com/badges/b279ef7c-fb0f-4023-9a90-8f9175798c3f/public_url")
 
 <https://www.credly.com/badges/b279ef7c-fb0f-4023-9a90-8f9175798c3f/public_url>
