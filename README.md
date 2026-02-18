@@ -8,10 +8,7 @@
   / __ `__ \ / __ `/ / __/ / __/  / __ \ / _ \| | /| / /  / ___/  / __ \ / __/
  / / / / / // /_/ / / /_  / /_   / / / //  __/| |/ |/ /  (__  )  / / / // /_
 /_/ /_/ /_/ \__,_/  \__/  \__/  /_/ /_/ \___/ |__/|__/  /____/  /_/ /_/ \__/
-```
 
-
-```text
 ~> **finger matthewsht**
 Login: matthewsht                             Name: Hunter Matthews
 Directory: /home/matthewsht                   Shell: /usr/bin/fish
