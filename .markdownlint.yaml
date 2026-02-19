@@ -13,3 +13,5 @@ MD012:
 # Markdown files don't need to observe a line length limit
 
 MD013: false # line-length
+
+MD041: false # not needed for this application
